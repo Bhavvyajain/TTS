@@ -3,3 +3,8 @@ torch
 transformers
 scipy
 git+https://github.com/huggingface/parler-tts.git
+
+flash-attn==2.3.6
+
+timeout-decorator==0.5.0
+python-logging-handler==1.0.0
